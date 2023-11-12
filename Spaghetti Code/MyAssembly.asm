@@ -68,8 +68,6 @@ DoMultiply:
 	mov ecx, eax	
 	jmp PopOut
 
-	call CalculateNextPower
-
 DoAdd:
 	; Add the power to total
 	add ecx, power
