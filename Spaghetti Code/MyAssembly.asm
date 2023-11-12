@@ -26,6 +26,21 @@ doit proc			; proc -- procedure
 	; proc -- procedure - outside assembly program call, 
 	; labels -- looks like proc with ":"  , can only be called inside assembly program, while doit proc is outside 
 
+	; --------------------------- Spaghetti Code ----------------------------------------------------------
+	; ref link:https://www.youtube.com/watch?v=RXpMHdB2Lfg&list=PLRwVmtr-pp05c1HTBj1no6Fl6C6mlxYDG&index=47
+
+
+
+
+
+
+
+
+
+
+
+
+
 	; ------------------------------ if else in Assembly ---------------------------------
 	;ref link:https://www.youtube.com/watch?v=BVOIBDwmOTM&list=PLRwVmtr-pp05c1HTBj1no6Fl6C6mlxYDG&index=46
 	; % - mudole
