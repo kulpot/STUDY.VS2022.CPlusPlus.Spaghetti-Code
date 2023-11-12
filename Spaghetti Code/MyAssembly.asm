@@ -25,6 +25,7 @@ doit proc			; proc -- procedure
 	; In computing, the least significant bit (LSb) is the bit position in a binary integer representing the binary 1s place of the integer. Similarly, the most significant bit (MSb) represents the highest-order place of the binary integer.
 	; proc -- procedure - outside assembly program call, 
 	; labels -- looks like proc with ":"  , can only be called inside assembly program, while doit proc is outside 
+	; goto's badside - ++spaghetti code 
 
 	; --------------------------- Spaghetti Code ----------------------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=RXpMHdB2Lfg&list=PLRwVmtr-pp05c1HTBj1no6Fl6C6mlxYDG&index=47
